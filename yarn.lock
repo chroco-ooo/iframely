@@ -1300,9 +1300,9 @@ mocha@^5.2.0:
     supports-color "5.4.0"
 
 mock-http-server@^1.0.0:
-  version "1.4.2"
-  resolved "https://registry.yarnpkg.com/mock-http-server/-/mock-http-server-1.4.2.tgz#1aef3801f702d2071c08fa2e08938f5e1069df10"
-  integrity sha512-41bkFnTv2+gOffvfH3kNK9yatHEvKnlTH0aCshQrPvuu67urtI9d0l2hUxK5YrdvDJEI01GR+9Gjn2l90Z5xkA==
+  version "1.4.5"
+  resolved "https://registry.yarnpkg.com/mock-http-server/-/mock-http-server-1.4.5.tgz#6413ab0143234450e566caaa3dbebae7bdf80744"
+  integrity sha512-7WZx7RJmMQEvTxJTOJt9U6+gLFl0JFaPHLSsAngfLaOgr3UH+ci7PW8049quyXwZGI4mh3W8oAch6w406ccyRQ==
   dependencies:
     body-parser "^1.18.1"
     connect "^3.4.0"
